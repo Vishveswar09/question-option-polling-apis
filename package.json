@@ -1,0 +1,17 @@
+{
+  "name": "polling-system-api",
+  "version": "1.0.0",
+  "description": "This is a backend system of adding votes to a posted question using mongodb and node js",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vishveswar Reddy S",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "mongodb": "^6.7.0",
+    "mongoose": "^8.4.1"
+  }
+}
